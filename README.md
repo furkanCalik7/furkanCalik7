@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Furkan!</h3>
 
 <a href="https://www.linkedin.com/in/furkanCalik7/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/">
+<a href="https://www.instagram.com/cirkin_ordek_yavrusu/">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
