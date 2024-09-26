@@ -6,8 +6,6 @@
 <a href="https://www.instagram.com/cirkin_panda_yavrusu/">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
-
 
 
 <br />
@@ -15,7 +13,7 @@
 
 A **Software Engineering** 🚀 from Ankara, Turkey.
 
-<img align="right" alt="GIF" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
 **About Me!**
 
