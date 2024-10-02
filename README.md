@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I am Furkan.
+Hello world 👋
 ==============================================================================================================================
 
-El Psy Congroo
+It's Furkan.
 --------------
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" height="200"/>
+<img align="right" alt="GIF" src="gif.gif" width="300" height="200"/>
 
 * 🌱 I love algorithms and I’m exploring game development with the Unity and Unreal engine. 
 * 🤔 My interests are stories that create the people, imagination, world, me and you 
